@@ -1,1 +1,1 @@
-web: sh bin/start
+web: www/index.html
